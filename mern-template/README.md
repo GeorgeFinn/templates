@@ -1,17 +1,6 @@
 # __MERN Boilerplate__
 
-A template of the MERN stack + Build Tools + State Management + React Router
-
-__SPICY TODO__
-```sh
-Re-organize package.json for devDependencies vs dependencies
-Once you need to dish packages to client side on production builds
-...you will get rekt if you dont fix it
-```
-
-```sh
-Code Cleanup :/
-```
+A template of the MERN stack + Build Tools + React Router
 
 ## __Table of Contents__
 
