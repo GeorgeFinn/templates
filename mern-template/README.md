@@ -134,38 +134,6 @@ npm i --save myPackage
 - Enables us to easily link up different parts of application.
 - `Future` - Enables us to lazy load our application for more efficient usage of resources
 
-### redux, react-redux, redux-thunk
-
-- Redux is a state container
-- Enables consistent development and flexibility for future changes
-- State Management:
-  - Fetch and Store Data
-  - Assign Data to UI elements
-  - Change Data
-- Middleware provides a way to interact with actions that have been dispatched to the store before they reach the store's reducer.
-
-### axios
-
-- Promise based HTTP client for browser and Node.js - Makes is straight forward and easy to make REST API calls
-
-
----
-
-
-## __Authentication Packages__
-### bcryptjs
-
-- Encrypts user password during account creation to greatly increase security
-
-### jsonwebtoken
-
-- generates web token for current user
-
-### passport, passport-jwt
-
-- Sends JSON web token along to access protected route using passport to validate token/extract user info
-
-### validator
 
 - Useful package that enables easy validation of forms and JSON objects
 
